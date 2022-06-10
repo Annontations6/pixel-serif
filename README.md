@@ -1,2 +1,2 @@
 # pixel-serif
-this file.
+this limit font this 65536 chars.
